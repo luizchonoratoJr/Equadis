@@ -1,0 +1,12 @@
+Scenario 1
+It's not clear to me what the source, but if I can Tableau for see in report or dinamic Table the analisys.
+We can discover the most expensive and cheapest products, in other words what generates the most revenue and the lowest revenue.
+We can find out which retailer sells at a more expensive price, or the fair price of the product. We also identify the percentage that each retailer makes on each product.
+
+
+Scenario 2
+
+Technically the two products are the same. Exactly the same processor and screen settings and for the same functionality
+In the second item the word "provides" was writed without "i". 
+The durablity described for the first product is "military grade durability", for the second use only the color gray military. 
+In my opinion, the first product seems to be more resistant, but the technical performance is the same because the hardware is the same
